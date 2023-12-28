@@ -12,7 +12,7 @@ buttons.forEach(function (button) {
     }
     if(e.target.id ==='blue')
     {
-      body.style.backgroundColor = e.target.id
+      body.style.backgroundColor = "pink"
     }
     if(e.target.id ==='white')
     {
